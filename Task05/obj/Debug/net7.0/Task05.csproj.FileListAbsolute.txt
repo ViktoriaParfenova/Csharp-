@@ -1,0 +1,14 @@
+C:\Users\Denis\Desktop\Csharp\Task05\obj\Debug\net7.0\Task05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\Desktop\Csharp\Task05\obj\Debug\net7.0\Task05.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Csharp\Task05\obj\Debug\net7.0\Task05.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Csharp\Task05\obj\Debug\net7.0\Task05.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Csharp\Task05\bin\Debug\net7.0\Task05.exe
+C:\Users\Denis\Desktop\Csharp\Task05\bin\Debug\net7.0\Task05.deps.json
+C:\Users\Denis\Desktop\Csharp\Task05\bin\Debug\net7.0\Task05.runtimeconfig.json
+C:\Users\Denis\Desktop\Csharp\Task05\bin\Debug\net7.0\Task05.dll
+C:\Users\Denis\Desktop\Csharp\Task05\bin\Debug\net7.0\Task05.pdb
+C:\Users\Denis\Desktop\Csharp\Task05\obj\Debug\net7.0\Task05.dll
+C:\Users\Denis\Desktop\Csharp\Task05\obj\Debug\net7.0\refint\Task05.dll
+C:\Users\Denis\Desktop\Csharp\Task05\obj\Debug\net7.0\Task05.pdb
+C:\Users\Denis\Desktop\Csharp\Task05\obj\Debug\net7.0\Task05.genruntimeconfig.cache
+C:\Users\Denis\Desktop\Csharp\Task05\obj\Debug\net7.0\ref\Task05.dll

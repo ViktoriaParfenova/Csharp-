@@ -1,0 +1,14 @@
+C:\Users\Denis\Desktop\Csharp\Task07\bin\Debug\net7.0\Task07.exe
+C:\Users\Denis\Desktop\Csharp\Task07\bin\Debug\net7.0\Task07.deps.json
+C:\Users\Denis\Desktop\Csharp\Task07\bin\Debug\net7.0\Task07.runtimeconfig.json
+C:\Users\Denis\Desktop\Csharp\Task07\bin\Debug\net7.0\Task07.dll
+C:\Users\Denis\Desktop\Csharp\Task07\bin\Debug\net7.0\Task07.pdb
+C:\Users\Denis\Desktop\Csharp\Task07\obj\Debug\net7.0\Task07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\Desktop\Csharp\Task07\obj\Debug\net7.0\Task07.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Csharp\Task07\obj\Debug\net7.0\Task07.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Csharp\Task07\obj\Debug\net7.0\Task07.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Csharp\Task07\obj\Debug\net7.0\Task07.dll
+C:\Users\Denis\Desktop\Csharp\Task07\obj\Debug\net7.0\refint\Task07.dll
+C:\Users\Denis\Desktop\Csharp\Task07\obj\Debug\net7.0\Task07.pdb
+C:\Users\Denis\Desktop\Csharp\Task07\obj\Debug\net7.0\Task07.genruntimeconfig.cache
+C:\Users\Denis\Desktop\Csharp\Task07\obj\Debug\net7.0\ref\Task07.dll
